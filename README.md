@@ -1,4 +1,4 @@
-# Generador de CUF SIAT
+# Generador CUF SIAT
 
 La generación del código único de factura en la modalidad de facturación en línea es un punto crucial en el proceso de habilitación ante el SIN. Es por eso que extraje este proceso en un pequeño pero util paquete para ahorrarte la tarea de implementar los algoritmos solicitados.
 
